@@ -1,0 +1,6 @@
+framework module Pods_HadiMovieSearch {
+  umbrella header "Pods-HadiMovieSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
